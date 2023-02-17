@@ -17,3 +17,6 @@ Movie recommender systems based on user preferences (user collaborative system)
 
 ### Demo Results based on a User Reviews on 2 movies
 ![image](https://user-images.githubusercontent.com/87340855/219750564-88eb43e7-4d51-471e-948c-c29682b7a543.png)
+
+## References
+- MovieLens: https://grouplens.org/datasets/movielens/100k/
